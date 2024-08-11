@@ -15,3 +15,5 @@ Or, the following command if not using v2 plugin
 ```
 docker-compose up --build
 ```
+
+In your code use "test" as the value for both `username` and `password`.
